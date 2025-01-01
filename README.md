@@ -3,14 +3,14 @@
 
 ## Table of Contents
 
-- [Game of Life](#Conway's Game of Life)
+- [Game of Life](#game-of-life)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage and Demonstration](#Usage and Demonstration)
+- [Usage and Demonstration](#usage-and-demonstration)
 - [Authors](#authors)
 - [License](#license)
 
-# Conway's Game of Life
+# Game-of-life
 
 This program was created by **TALAB Stéphane** as part of a computer architecture project, conducted during the 2024-2025 academic year in the second year of the Computer Science bachelor's degree at UPJV Amiens.
 
@@ -47,7 +47,7 @@ Start the code
 ```
 
 
-## Usage and Demonstration
+## Usage-and-demonstration
 
 ![Demonstration Conway's Game of Life](https://pouch.jumpshare.com/preview/QAIOp5QARWMNKIfSW86VgRpEuuAtyPpGwcqEU5zZWTsOjMWbO1zCtv8yvPok4Qeg-XXJxOMdpmwj8QffV_MflT02Wne5xsuybODMpLQhqAs)
 

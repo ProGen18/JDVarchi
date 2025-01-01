@@ -33,7 +33,7 @@ To run this code, you need to install the **EASy68k** software.
 
 - Simulation of Conway's Game of Life rules (birth, survival, and death of cells)
 - Customizable speed
-- Save and load simulation states
+- Save and load simulation states (The game automatically adds the `.schematic` extension if needed)
 - Random system to initialize the grid
 - Runs on 68k assembly emulator
 

@@ -5,6 +5,7 @@
 
 - [Game of Life](#game-of-life)
 - [Prerequisites](#prerequisites)
+- [Features](#Features)
 - [Installation](#installation)
 - [Usage and Demonstration](#usage-and-demonstration)
 - [Authors](#authors)
@@ -26,6 +27,17 @@ To run this code, you need to install the **EASy68k** software.
 - **Link to download and install EASy68k** :
 
   [http://www.easy68k.com/](http://www.easy68k.com/)
+
+
+## Features
+
+- Simulation of Conway's Game of Life rules (birth, survival, and death of cells)
+- Customizable speed
+- Save and load simulation states
+- Random system to initialize the grid
+- Runs on 68k assembly emulator
+
+
 ## Installation
 
 Clone the project
@@ -45,10 +57,10 @@ Go to the project directory
 - Go to **File** > **Open** and select the `main.X68` file from the project folder.
 
 
-Once your project file is opened, press **F9** to assemble the code. This will compile the assembly file into machine code.
+Once your project file is opened, press **F9** to assemble the code. Execute it.
 
 
-After the assembly is finished, press **F5** to run the program and watch the **Game of Life** simulation within the EASy68k environment.
+After the assembly is finished, press **F9** again to run the program and enjoy.
 
 
 ## Usage-and-demonstration

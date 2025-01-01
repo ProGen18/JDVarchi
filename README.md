@@ -40,12 +40,23 @@ Go to the project directory
   cd JDVarchi
 ```
 
-Start the code
+Open Your Project File
 
-```bash
-  ./main.X68
+```
+- Launch the **EASy68k** application.
+- Go to **File** > **Open** and select the `main.X68` file from the project folder.
+```
+Assemble the Code
+
+```
+Once your project file is opened, press **F9** to assemble the code. This will compile the assembly file into machine code.
 ```
 
+Run the Program
+
+```
+After the assembly is finished, press **F5** to run the program and watch the **Game of Life** simulation within the EASy68k environment.
+```
 
 ## Usage-and-demonstration
 

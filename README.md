@@ -36,7 +36,7 @@ To run this code, you need to install the **EASy68k** software.
 - Save and load simulation states (The game automatically adds the `.schematic` extension if needed)
 - Random system to initialize the grid
 - Runs on 68k assembly emulator
-
+- Pre-created demonstration files ready for use
 
 ## Installation
 

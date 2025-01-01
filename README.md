@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-- [Game of Life](#game-of-life)
+- [Game of Life](#Conway's Game of Life)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage and Demonstration](#usage-and-demonstration)
+- [Usage and Demonstration](#Usage and Demonstration)
 - [Authors](#authors)
 - [License](#license)
 
